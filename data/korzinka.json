@@ -1,0 +1,17 @@
+[
+    {
+        "id": "a52c867a-8ff9-47ba-b6ee-18f614f64e2f",
+        "name": "Meat",
+        "price": "50$"
+    },
+    {
+        "id": "fd58ae06-9426-4bc2-b0ed-6413142c3b52",
+        "name": "Toys",
+        "price": "70$"
+    },
+    {
+        "id": "e7fc8561-c91b-4787-9aca-6a4c182628cd",
+        "name": "Phone",
+        "price": "1000$"
+    }
+]

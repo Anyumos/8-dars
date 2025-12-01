@@ -1,0 +1,23 @@
+[
+    {
+        "id": "f4de424f-5ca1-4b3c-873f-478ece2fc0e5",
+        "username": "Ali",
+        "email": "ali@gmail.com",
+        "role": "user",
+        "password": "$2b$12$lwT4s41/J4Sl225Qgl3YDOp4a3DiGNfB7aNDj62yHbJseJu7FaDiO"
+    },
+    {
+        "id": "2f12e6b6-8d2e-4380-a72f-45ceb2b05920",
+        "username": "RamiMalek",
+        "email": "rami@gmail.com",
+        "role": "admin",
+        "password": "$2b$12$bf7q5.BwzxtIthcxDc3g0OgpX85e60WLKDE6Wble.0t.Y..EUQovO"
+    },
+    {
+        "id": "90cf186b-b3c6-4c39-93d6-28d2eee6bf05",
+        "username": "Otush",
+        "email": "baltabaykalandarov@gmail.com",
+        "role": "superadmin",
+        "password": "$2b$12$Ujnn2zvr6NWLsAhKLm9AmeSddphTq3DNRvSJ7JePI9gn1m/2SFF4y"
+    }
+]
